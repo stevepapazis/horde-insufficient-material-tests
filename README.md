@@ -1,4 +1,4 @@
-**TL;DR:** This script generates Horde positions and assess whether white has enough material to deliver mate in each one of those positions.
+**TL;DR:** This script generates Horde positions and assesses whether white has enough material to deliver mate in each one of those positions. 
 
 ### The setting
 
