@@ -69,8 +69,6 @@ By having all these mating patterns we know the minimal sufficient material and 
 
 ---
 
-Footnote:
-
-<a name="myfootnote1"><sup>1</sup></a> : All the squares of a given colour around the king can be controlled by just two bishops that occupy the same colour.
-
+Footnote:<br>
+<a name="myfootnote1"><sup>1</sup></a> : All the squares of a given colour around the king can be controlled by just two bishops that occupy the same colour.<br>
 <a name="myfootnote2"><sup>2</sup></a> : Positions with pawns have some really peculiar properties. For example, in a position where black possesses two split pawns against a lone rook, white cannot mate at first glance. But since the pawns can be promoted to a rook and a knight, the position is winnable regardless of the initial positioning of the pawns. Applying the same concept more generally, we see that the limited mobility of pawns doesn't always constitute an obstacle to the attainability of a position.
