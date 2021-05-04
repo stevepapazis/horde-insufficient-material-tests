@@ -702,6 +702,10 @@ class GenerateTestsFromPatterns:
                 if board.is_insufficient==True and board.has_sufficient_subset():
                     self.tests[name][n].is_insufficient = False
 
+                if board.is_insufficient != board.has_insufficient_material(True):
+                    board.print()
+                    raise Exception("Sanity check failed")
+
 
     def __brute_force_black_side(self, king_board, black_side_num):
         """
